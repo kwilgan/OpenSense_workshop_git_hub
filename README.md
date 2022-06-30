@@ -5,5 +5,6 @@ This is an example repository for the workshop **Reproducible science and progra
 The goals of this workshop are to:
 * Understand the basics of git, github and mybinder
 * Understand the sandbox environment and to be able to contribute to the sandbox  
+*I love git!
 
 Slides and more information is available in tba..
