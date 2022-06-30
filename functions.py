@@ -24,6 +24,6 @@ def scatter_data(data,variable_1=None,variable_2=None):
     if (variable_1 is None) or (variable_2 is None):
         print('please provide two variable names!')
         return
-    data.plot.scatter(x=variable_1+1,y=variable_2)  
+    data.plot.scatter(x=variable_1+2,y=variable_2)  
 
     
